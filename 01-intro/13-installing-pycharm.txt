@@ -1,0 +1,36 @@
+# Installing PyCharm
+# PyCharm'ni o'rnatish
+
+For Windows - Windows uchun
+
+Google search - google'dan qidiramiz -> pycharm download
+www.jetbrains.com
+download and install, then open - yuklang va o'rnating, keyin oching
+
+
+For ubuntu - ubuntu uchun
+
+Google search - google'dan qidiramiz -> jetbrains toolbox
+www.jetbrains.com -> download - yuklang -> Open terminal - terminalni oching
+sudo apt install libfuse2
+cd Download
+cd jetbrains
+./jetbrains-toolbox -> PyCharm install -> open - oching
+
+Open Software - Software ilovasini oching -> search - qidiring -> pycharm -> install -> open - oching
+
+
+Open -> Select path and open - Yo'lni tanlang va oching ->
+Select folder and click mouse right - Papkani tanlang va sichqonchani o'ng tomini bosing ->
+New -> Python file -> app
+
+Python Code:
+print("Hello World!")
+
+Open terminal - Terminalni oching
+python3 app.py
+
+
+Python Console -> Interactive mode - interaktive rejim
+Problems -> Analyse code - Kodni tahlil qilish
+|> Run -> Run code - kodni ishlatish
