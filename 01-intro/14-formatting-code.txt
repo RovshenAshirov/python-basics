@@ -1,0 +1,15 @@
+# Formatting code
+# Kodni formatlash
+
+Python Enhacement Proposals - PEPs
+Google search - google'dan qidiramiz -> Python PEPs -> python.org -> Style Guide for Python Code -> 8
+x=1 # bad format - yomon format
+x = 1 # good format - yaxshi format
+
+VSCode
+Ctrl + Shift + M -> format -> Format document -> autopeps -> Yes
+Ctrl + Shift + M -> Format document
+File -> Preferences -> Settings -> search - qidiramiz -> formatOnSave +
+
+PyCharm
+Ctrl + Alt + L
