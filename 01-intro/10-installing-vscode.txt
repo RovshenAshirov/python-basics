@@ -1,0 +1,20 @@
+# Installing Visual Studio Code
+# Visual Studio Code'ni o'rnatish
+
+For Windows - Windows uchun
+
+Google search - google'dan qidiramiz -> vs code download
+code.visualstudio.com
+download and install, then open - yuklang va o'rnating, keyin oching
+
+
+For ubuntu - ubuntu uchun
+
+Open Software - Software ilovasini oching -> search - qidiring -> visual studio code -> install -> open - oching
+
+
+Explorer (Ctrl + Shift + E) -> + > app.py
+Python Code:
+print("Hello World!")
+Terminal -> New Terminal (Ctrl + `)
+python3 app.py
