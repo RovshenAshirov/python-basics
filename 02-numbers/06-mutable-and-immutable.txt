@@ -1,0 +1,15 @@
+# Mutable and immutable data types
+# O'zgaruvchan va o'zgarmas ma'lumotlar turlari
+
+Immutable objects
+
+int, float, complex
+str
+tuple
+
+
+Mutable objects
+
+list
+set
+dictionary
