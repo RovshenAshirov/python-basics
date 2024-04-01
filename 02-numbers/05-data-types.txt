@@ -1,0 +1,19 @@
+# Data types
+# Ma'lumotlar turlari
+
+Numeric - Raqamli
+
+Integer - Butun sonlar
+Float -> floating point number - suzib yuruvchi sonlar
+Complex Number - Kompleks sonlar
+
+
+Set - O'rnatish
+Dictionary - Lug'at
+
+
+Sequence - Ketma-ketlik
+
+String - Matn
+List - Ro'yxat
+Tuple
