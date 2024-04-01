@@ -1,0 +1,9 @@
+# Tools
+# Asboblar
+
+Editors - VSCode, Atom, Sublime
+IDE -> Integrated Development Environment - PyCharm
+
+Autocompletion - Avtomatik toʻldirish
+Debugging - Nosozliklarni tuzatish
+Testing - Testlash
