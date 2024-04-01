@@ -1,0 +1,13 @@
+# Working with numbers
+# Sonlar bilan ishlash
+
+>>> 5 + 5 # addition - qo'shish -> plus -> +
+10
+>>> 5 - 3 # subtraction - ayirish -> minus -> -
+2
+>>> 5 / 5 # division - bo'lish -> slash -> /
+1
+>>> 5 * 4 # multiplication - ko'paytirish -> asterisk -> *
+20
+
+\ -> back slash -> not division - bo'lish emas
