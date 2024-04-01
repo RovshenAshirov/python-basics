@@ -1,0 +1,19 @@
+# Variable naming rules
+# O'zgaruvchilarni nomlash qoidalari
+
+yellow = 5  # doesn't - qilmang
+age1 = 1  # good - yaxshi
+age_2 = 2  # good - yaxshi
+age_of_user = 3  # good - yaxshi
+age-3 = 4  # bad - yomon
+4age = 5  # bad - yomon
+Age = 6  # not good - yaxshi emas
+return = 5  # bad - yomon -> keyword - kalit so'z
+
+In interactive mode - interaktiv rejimda
+>>> help()
+help> keywords
+help> quit
+>>> exit()
+
+search google - google'dan qidiramiz -> python keywords
