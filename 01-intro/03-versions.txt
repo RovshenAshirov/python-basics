@@ -1,0 +1,10 @@
+# Versions
+# Versiyalar
+
+Python 2 Legacy 2020
+Python 2 O'tmish 2020
+
+Python 3 Future
+Python 3 Kelajak
+
+terminal: python3 -> interpretator
