@@ -1,0 +1,9 @@
+# Creating Python file
+# Python fayl yaratish
+
+Open Python IDLE -> File -> New file
+
+Python Code:
+print("Hello World!")
+
+Run -> Run Module
