@@ -1,0 +1,17 @@
+# Python Extensions
+
+IDE
+
+Linting -> analyse code - kodni tahlil qilish
+Debugging -> find and fix error - xatoni topish va tuzatish
+Autocompletion - Avtomatik toʻldirish
+Code formatting - Code formatting
+Unit testing - Unit testlash
+Code snippets - Kod parchalari
+
+
+Extensions (Ctrl + Shift + X)
+python install -> Microsoft -> Run code |> - Kodni ishlatish |>
+pylint install -> analyse code in VSCode - VSCode'da kodni tahlil qilish
+Ctrl + Shitf + M -> Problems
+Ctrl + Shift + P -> Python: Select Linter -> pylint
