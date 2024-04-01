@@ -1,0 +1,7 @@
+# Interactive mode
+# Interaktive rejim
+
+Open terminal - Terminalni oching
+python -> python3  # for ubuntu
+>>> 5 + 5
+10
