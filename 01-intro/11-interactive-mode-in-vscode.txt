@@ -1,0 +1,8 @@
+# Interactive mode in VSCode
+# VSCode'da interaktiv rejim
+
+Terminal -> New Terminal (Ctrl + `)
+python -> python3  # for ubuntu
+>>> 5 + 5
+10
+>>> exit()
