@@ -1,0 +1,39 @@
+# Reasons to use
+# Foydalanish uchun sabablar
+
+Reason 1 - Sabab 1
+
+Solve complex problems in less time with fewer lines of code
+Kamroq kod satrlari bilan murakkab muammolarni qisqa vaqt ichida hal qilish
+
+Google, Facebook, Spotify, Dropbox
+
+Hello world -> Hel
+C# -> str.Substring(0, 3)
+javascript -> str.substr(0, 3)
+python -> str[0:3]
+
+Reason 2 - Sabab 2
+
+Python is multi-purpose
+Python ko'p maqsadli
+
+Data analysis - Ma'lumotlarni tahlil qilish
+AI / ML - Sun'iy intellekt
+Automation - Avtomatlashtirish
+Web apps - Veb-ilovalar
+Mobile apps - Mobil ilovalar
+Desktop apps - Kompyuter ilovalari
+Testing - Testlash
+Hacking - Xakerlik
+
+Salary $115.835 per/year (indeed.com - March 2018)
+Maosh $115.835 har/yil (indeed.com - Mart 2018)
+
+
+Reason 3 - Sabab 3
+
+High-level - Yuqori darajali
+Cross-platform - Kross-platforma
+Huge community - Katta jamoa
+Large ecosystem - Katta ekotizim
