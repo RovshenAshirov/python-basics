@@ -1,0 +1,9 @@
+# How Python code is executed?
+# Python kodi qanday bajariladi?
+
+C -> Compiler -> Machine Code -> Processor
+Java -> Compiler -> Java ByteCode -> Java Virtual Machine -> Machine Code -> Processor
+Windows
+Java Virtual Machine -> Windows Machine Code
+Python -> CPython -> Python ByteCode -> Python Virtual Machine -> Machine Code -> Processor
+Python -> Jython -> Java ByteCode -> Java Virtual Machine -> Machine Code -> Processor
