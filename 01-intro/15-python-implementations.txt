@@ -1,0 +1,16 @@
+# Python Implementations
+
+Language - Til -> Rules - Qoidalar
+Implementations -> Program - dastur
+
+CPython -> C++
+Jython -> Java
+IronPython -> C#
+PyPy -> Subset of Python
+
+
+Variety - Xilma-xillik
+
+Operating systems -Operatsion tizimlar
+Browsers - Brauzerlar
+Languages - Tillar
