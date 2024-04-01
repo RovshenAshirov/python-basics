@@ -1,0 +1,17 @@
+# What is Python?
+# Python nima?
+
+The world's fastest growing programming language.
+Dunyodagi eng tez rivojlanayotgan dasturlash tili.
+
+
+Python is used by the following industries
+Python quyidagi sohalarda qo'llaniladi
+
+Software engineers - Dasturiy ta'minot muhandislari
+Mathematicians - Matematiklar
+Data analysts - Ma'lumotlar tahlilchilari
+Scientists - Olimlar
+Accountants - Buxgalterlar
+Network engineers - Tarmoq muhandislari
++ kids - + bolalar
