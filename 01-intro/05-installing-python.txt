@@ -1,0 +1,13 @@
+# Installing Python
+# Pythonni o'rnatish
+
+
+For Windows - Windows uchun
+
+python.org -> download -> install -> PATH + -> Installing Now -> Open Python IDLE
+
+
+For Ubuntu - Ubuntu uchun
+
+sudo apt install python3.10
+sudo apt install idle3 -y
