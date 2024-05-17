@@ -1,0 +1,3 @@
+# UNICODE
+
+print("😘" * 5)
